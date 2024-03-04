@@ -1,4 +1,3 @@
-Tutorial
 
 ## Tutorial: Integrating ROS with Kubernetes for Beginners
 
