@@ -24,6 +24,7 @@ Follow these steps to get started with the ROS-Kubernetes integration project:
 1. Clone the repository:
    ```
    git clone https://github.com/username/ros-kubernetes-integration.git
+   # link has /username/, replacing it with /catdavid/ username returns 404. Cannot get access to this repo.
    cd ros-kubernetes-integration
    ```
 
